@@ -1,5 +1,18 @@
 # RealTime-Chat-App
 
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : AJAY WAGHMARE
+
+*INTERN ID* : CT04DM470
+
+*DOMAIN* : REACT DEVELOPMENT
+
+*DURATION* : 4 WEEKS
+
+*MENTOR* : NEELA SANTHOSH
+
+
 Real-Time Chat Application Using React and Socket.IO
 The Real-Time Chat Application is a modern, responsive web app designed to facilitate instant communication between users. Built using React for the frontend and 
 Socket.IO for real-time communication, this application supports individual and group chats, live typing indicators, and dynamic user interactions. 
@@ -15,6 +28,7 @@ Another intuitive feature is the Typing Indicator, which enhances the real-time 
 someone is composing a message. This feature adds a human touch to conversations and makes the chat feel more interactive and responsive.
 
 #Technology Stack
+
 *Frontend:
 
 React.js – For building a dynamic and interactive single-page application.
