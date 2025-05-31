@@ -12,6 +12,7 @@
 
 *MENTOR* : NEELA SANTHOSH
 
+
 #Description : 
 
 Real-Time Chat Application Using React and Socket.IO
@@ -27,6 +28,8 @@ participants in real time, ensuring everyone stays on the same page. This promot
 
 Another intuitive feature is the Typing Indicator, which enhances the real-time feel of the application. When a user starts typing, other participants in the chat room are notified that 
 someone is composing a message. This feature adds a human touch to conversations and makes the chat feel more interactive and responsive.
+
+
 
 #Technology Stack
 
@@ -49,6 +52,7 @@ Express.js – A lightweight server framework to handle API routes and middlewar
 Socket.IO Server – To handle WebSocket connections and real-time events.
 Database:
 MongoDB  – For storing chat history, user data, and room metadata. 
+
 
 #Real-Time Features:
 
